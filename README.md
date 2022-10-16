@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatsakrish
-- 👀 I’m interested in Coding, be it Java/Springboot or Angular/HTML/CSS or cloud.
-- 🌱 I’m currently learning Cloud Deployment
+- 👀 I’m interested in Managing teams and Coding, be it Java/Springboot or Angular/HTML/CSS or cloud.
+- 🌱 I’m currently learning Functional Interfaces - deep implementation
 - 💞️ I’m looking to collaborate on Springboot and Cloud
 - 📫 You can always reach me at vatsakrish@gmail.com
 
